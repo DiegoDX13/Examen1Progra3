@@ -1,3 +1,5 @@
 # Examen1Progra3
 
-prueba1 es el la pregunta 17
+prueba1 es la pregunta 17
+
+run Prueba1.java
